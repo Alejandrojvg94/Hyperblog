@@ -6,7 +6,7 @@ body {
 }
 #cabecera
 {
-    background: chartreuse;
+    background: gray;
     box-shadow: 0px 5px 30px 0px red;
     color: cornflowerblue;
     font-weight: bold;
